@@ -1,12 +1,12 @@
 # Hiring Process Analytics
 
-## Project Overview
+Project Overview
 
 This project analyzes the hiring data of a multinational company (e.g., Google) to generate meaningful insights that can improve recruitment strategies. It explores hiring trends, gender distribution, salary analysis, departmental distribution, and organizational hierarchy.
 
 ---
 
-## Objectives
+Objectives
 
 - Analyze gender-based hiring trends
 - Evaluate salary distribution across departments
@@ -15,7 +15,7 @@ This project analyzes the hiring data of a multinational company (e.g., Google) 
 
 ---
 
-## Approach
+Approach
 
 - **Data Source:** Historical hiring records
 - **Cleaning:** Missing values in `Event_Name`, `Post Name`, `Offered Salary` are filtered out
@@ -24,7 +24,7 @@ This project analyzes the hiring data of a multinational company (e.g., Google) 
 
 ---
 
-## Key Insights & Visualizations
+Key Insights & Visualizations
 
 ### 1. Gender Distribution of Hires
 
