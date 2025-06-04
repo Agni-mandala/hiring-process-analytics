@@ -6,11 +6,7 @@
 - [Objectives](#Objectives)
 - [Approach](#Approach)
 - [Key Insights & Visualizations](#Key-Insights-&-Visualizations)
-- [Tech Stack](#Tech-Stack)
-- [Files Included](#files-included)
-- [Conclusion](#conclusion)
-- [Contact](#contact)
-
+- [Tech Stack](#Tech-Stack) 
 
 ## Project-Overview
 
@@ -78,3 +74,7 @@ Tiers **C5** and **C9** dominate the hiring structure. The organization should e
   - Data Cleaning
   - Statistical Analysis
   - Pivot
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
