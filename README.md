@@ -1,6 +1,6 @@
 # Hiring Process Analytics
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Project Overview](#Project-Overview)
 - [Objectives](#Objectives)
